@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: mirya Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/byo
+Data file = C:\xampp\htdocs\byo/wp-content/uploads/2022/07/demo-content-import-file_2022-07-05__13-26-44.xml
+Widget file = C:\xampp\htdocs\byo/wp-content/uploads/2022/07/demo-widgets-import-file_2022-07-05__13-26-44.json
+Customizer file = C:\xampp\htdocs\byo/wp-content/uploads/2022/07/demo-customizer-import-file_2022-07-05__13-26-44.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+Mirya Recent Posts Thumbnail - Recent Posts - Imported
+Nube de etiquetas - Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

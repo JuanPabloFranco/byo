@@ -1,0 +1,95 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mirya\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-05 15:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: mirya"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+msgid "404! Not Found..."
+msgstr ""
+
+#: functions.php:149
+msgid "Add widgets here."
+msgstr ""
+
+#: 404.php:25
+msgid "Back To Home"
+msgstr ""
+
+#: functions.php:234
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:219
+msgid "Footer"
+msgstr ""
+
+#: functions.php:44
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#. Author of the theme
+msgid "HasnaaDesign"
+msgstr ""
+
+#. URI of the theme
+msgid "https://hasnaanajmi.com/TM/mirya/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.templatemonster.com/authors/recthemes/"
+msgstr ""
+
+#. Name of the theme
+msgid "Mirya"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Mirya – is a Creative Personal Portfolio Wordpress Theme Based on Elementor "
+"Page Builder Easy to Use / Simple Creative Portfolio Lightspeed WordPress "
+"Theme for creative agency, portfolio, personal website, creative showcase, "
+"web agency portfolio, professional website, designer portfolio, freelancer "
+"portfolio and much more individual and Corporate or Personal WordPress "
+"websites. You will have a clean website with simple appearance and powerful "
+"features of this premium theme created with Elementor Page Builder. You can "
+"easily build an unlimited number of pages using ready-made blocks and "
+"widgets, without the need for coding skills and website experts!"
+msgstr ""
+
+#: template-parts/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/demo-import.php:11
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: template-parts/content-none.php:3
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 404.php:24
+msgid "We are sorry. But the page you are looking for cannot be found."
+msgstr ""

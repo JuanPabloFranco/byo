@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: mirya Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://hasnaanajmi.com/TM/mirya
+Data file = /home/mchmsq9gf9eb/public_html/TM/mirya/wp-content/uploads/2021/10/demo-content-import-file_2021-10-17__21-51-21.xml
+Widget file = /home/mchmsq9gf9eb/public_html/TM/mirya/wp-content/uploads/2021/10/demo-widgets-import-file_2021-10-17__21-51-21.json
+Customizer file = /home/mchmsq9gf9eb/public_html/TM/mirya/wp-content/uploads/2021/10/demo-customizer-import-file_2021-10-17__21-51-21.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Imported
+Mirya Recent Posts Thumbnail - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+
