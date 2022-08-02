@@ -702,7 +702,7 @@ font-weight: 600;
   width: 100%;
   height: 100%;
   border-radius: 8px;
-  background: linear-gradient(to right, rgb(207, 156, 99) 5%, #fff 100%);
+  background: linear-gradient(to right, rgb(255,0,153) 5%, #fff 100%);
 }
 
 .about-me .about-image img {
@@ -752,6 +752,7 @@ margin-top: 45px;
   padding: 33px 20px;
   margin-top: 30px;
   margin-right: 20px;
+  display: none;
 }
 
 .about-me .about-info .personal-info ul li {
